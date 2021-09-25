@@ -214,7 +214,7 @@ int main(void)
     char titleStr[30] = "     GoodMe     ";
     char title2Str[30] ="  TeaCode Tool  ";
     char contStr[15] =  "   code:";
-    u16 i, glf;
+    u16 i, glf1;
     uint16_t ret = 0, showTimeCnt = 0;
 	Delay_Init();
 	USART_Printf_Init(115200);
