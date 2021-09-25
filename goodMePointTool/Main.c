@@ -200,7 +200,7 @@ uint16_t processPointDeviceCmd(unsigned char buff[], uint16_t buffLength){
 
 
 
-    A3接点读码模块  TX
+    A3接点读码模块  TX glf
  * */
 
 /*******************************************************************************
